@@ -1,0 +1,19 @@
+# General packages
+torch
+torchvision
+tensorflow  # Uncomment this if using TensorFlow instead of PyTorch
+
+# Computer Vision
+opencv-python
+albumentations
+segmentation-models-pytorch
+
+# Web Frameworks
+fastapi
+uvicorn
+
+# Streamlit for web apps
+streamlit
+
+# HTTP requests
+requests
